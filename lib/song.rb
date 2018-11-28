@@ -39,4 +39,4 @@ class Song
     @@artists.each{|artist| artist_count[artist] += 1}
     return artist_count
   end
- end
+end
